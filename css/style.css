@@ -3,15 +3,15 @@
 }
 
 h1 {
-    text-align:center
+    text-align:center;
 }
 
 body {
-    background-color: #BA1200;
+    background-color: #9DD1F1;
 }
 
 .main-body {
-    background-color: #031927;
+    background-color: white;
 }
 
 h3 {
@@ -20,12 +20,22 @@ h3 {
 
 #mail {
     font-size: 30px;
+    text-align: center;
 }
 
 i {
-    text-align:center
+    text-align:center;
 }
 
- p {
-     text-align:center
- }
+p {
+     text-align:center;
+}
+
+#portrait {
+    border-radius: 50%;
+    text-align: center;
+}
+
+.card-body {
+    background-color: #508AA8;
+}
