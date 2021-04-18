@@ -2,12 +2,10 @@
 
 }
 
-h1 {
-    text-align:center;
-}
+
 
 body {
-    background-color: #9DD1F1;
+    background-color: #508AA8;
 }
 
 .main-body {
@@ -19,23 +17,46 @@ h3 {
 }
 
 #mail {
-    font-size: 30px;
+    font-size: 34px;
     text-align: center;
 }
 
-i {
-    text-align:center;
-}
-
-p {
-     text-align:center;
-}
 
 #portrait {
-    border-radius: 50%;
-    text-align: center;
+    width:300px;
+    height:300px;
+    object-fit:cover;
+    border-radius:50%;
+    border-style: solid;
+    border-color: #031927;
 }
 
 .card-body {
-    background-color: #508AA8;
+    background-color: #C8E0F4;
+}
+
+#details {
+    background-color: white;
+}
+
+#resume {
+    text-align: center;
+}
+
+.img-container {
+    text-align: center;
+}
+
+.nav-link {
+    color: #031927;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+nav {
+    float: right;
+}
+
+a {
+    color: #9DD1F1;
 }
