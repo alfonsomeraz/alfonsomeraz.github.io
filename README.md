@@ -8,3 +8,11 @@ Included items:
 - Contact info
 - Bio
 - Organizations
+
+Langauges used:
+- Javascript
+- HTML
+- CSS
+
+Frameworks:
+- React.js
