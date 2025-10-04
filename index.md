@@ -1,5 +1,6 @@
 ---
-title: Welcome to my blog
+layout: home
+list_title: Latest posts
 ---
 
 # Hi, I'm Alfonso 👋
